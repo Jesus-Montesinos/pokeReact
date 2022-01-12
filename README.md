@@ -1,2 +1,2 @@
 # pokeReact
-pokeReact V1.0
+pokeReact V1.0.0
